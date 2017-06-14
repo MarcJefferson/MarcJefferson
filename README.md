@@ -1,3 +1,4 @@
 # Portfolio
-Resume
-This a short description of my work
+Resume:
+
+This a short description of my work and experience
